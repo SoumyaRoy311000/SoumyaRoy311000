@@ -5,7 +5,7 @@
 - 🔭 I’m currently a student at Jadavpur University, Kolkata.
 - 🌱 I’m currently learning DevOps
 - 📫 How to reach me:
-    - Mail: [Click Here](mailto:soumyaroy311000@gmail.com)
+    - Mail: [Click Here](https://mailto:soumyaroy311000@gmail.com)
 - :receipt: My GitHub Stats:
 
     - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaRoy311000&theme=tokyonight)
